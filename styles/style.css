@@ -80,7 +80,7 @@ main {
 }
 
 /* ------Latest Courses---- */
-.course img {
+.course .course-banner {
     width: 170px;
     height: 100px;
 }
