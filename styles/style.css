@@ -79,8 +79,40 @@ main {
     color: slategray;
 }
 
-/* ------Latest Courses---- */
+/* ------Latest Courses Styles---- */
 .course .course-banner img {
     width: 170px;
     height: 100px;
+}
+
+.course-author {
+    color: red;
+}
+
+.course-info {
+    display: flex;
+    align-items: center;
+
+
+}
+
+.course-duration {
+    padding-left: 15px;
+}
+
+.rating {
+    padding: 15px;
+}
+
+
+.fa-star.failled {
+    color: #FFC014;
+}
+
+.fa-star.empty {
+    color: #bebebe;
+}
+
+.fa-star {
+    font-size: 12px;
 }
